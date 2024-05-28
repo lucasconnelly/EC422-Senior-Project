@@ -31,4 +31,4 @@ This analysis is not only relevant for stakeholders in the video game industry b
 
 **Explore the Repository**
 
-Feel free to browse the notebooks, datasets, and visualizations included in this repository. Each part of the analysis is documented to ensure clarity and reproducibility. Contributions and critiques are welcome as we look to refine and expand our analysis.
+Feel free to browse the notebook and datasets included in this repository. Each part of the analysis is documented to ensure clarity and reproducibility.
